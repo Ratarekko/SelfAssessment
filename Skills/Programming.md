@@ -8,40 +8,40 @@
   - scalar: 🖐️ used
   - literal: 🖐️ used
   - expression: 🖐️ used
-  - heap
+  - heap: 👂 heard
   - function: 🖐️ used
-  - procedure
-  - method:
-  - class: 🎓 known
+  - procedure: 🖐️ used
+  - method: 🖐️ used
+  - class: 🖐️ used
   - prototype
-  - event
-  - type: 🎓 known
-  - primitive types: 🎓 known
-  - reference types: 🎓 known
-  - flag
-  - lexical scope
-  - code block
+  - event: 👂 heard
+  - type: 🖐️ used
+  - primitive types: 🖐️ used
+  - reference types: 🖐️ used
+  - flag: 🖐️ used
+  - lexical scope: 👂 heard
+  - code block: 🖐️ used
   - conditions: 🖐️ used
   - loops: 🖐️ used
-  - assignment
+  - assignment: 🖐️ used
   - regular expression
   - interface
   - contract
-  - module
+  - module: 👂 heard
   - call stack
 - Functions
-  - signature
+  - signature: 🖐️ used
   - argument: 🖐️ used
   - parameter: 🖐️ used
-  - pure function
+  - pure function: 🖐️ used
   - lambda expression
-  - side effects
-  - closure
+  - side effects: 👂 heard
+  - closure: 👂 heard
   - partial application
   - curry
   - higher order
-  - recursion
-  - callback
+  - recursion: 🖐️ used
+  - callback: 🖐️ used
   - listener
   - compose
   - pipe
@@ -60,9 +60,9 @@
   - instance
   - object: 🎓 known
   - class: 🎓 known
-  - collection
-  - set
-  - hash table
+  - collection: 🎓 known
+  - set: 🎓 known
+  - hash table: 🎓 known
   - linked list
   - doubly list
   - unrolled list
@@ -73,34 +73,34 @@
   - tree
   - graph
   - iterator
-  - mutable state
-  - immutable state
+  - mutable state: 👂 heard
+  - immutable state: 👂 heard
   - serialization
   - string parsing
 - Process & style
   - compiler: 🖐️ used
-  - transpiler
+  - transpiler: 🎓 known
   - linter: 🖐️ used
-  - polyfill
-  - debugger
+  - polyfill: 👂 heard
+  - debugger: 🖐️ used
   - garbage collection
-  - refactoring: 🎓 known
+  - refactoring: 🖐️ used
   - code review: 🎓 known
-  - antipatterns:👂 heard
-  - paradigm:👂 heard
+  - antipatterns: 👂 heard
+  - paradigm: 👂 heard
   - algorithm: 🖐️ used
-  - magic numbers
+  - magic numbers: 🎓 known
   - hardcode: 🎓 known
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
+  - complexity: 🎓 known
+  - decomposition: 🖐️ used
+  - spaghetti: 🎓 known
+  - silver bullet: 👂 heard
+  - not invented here: 👂 heard
+  - dead code: 🎓 known
+  - unreachable code: 🎓 known
   - duplicate code: 🎓 known
-  - exception
-  - return early
-  - unittest
-  - git: 👂 heard
-  - github: 👂 heard
+  - exception: 🖐️ used
+  - return early: 🎓 known
+  - unittest: 🖐️ used
+  - git: 🖐️ used
+  - github: 🖐️ used
