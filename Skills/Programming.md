@@ -1,28 +1,28 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
+  - value: 🖐️ used
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
+  - scalar: 🖐️ used
+  - literal: 🖐️ used
+  - expression: 🖐️ used
   - heap
-  - function
+  - function: 🖐️ used
   - procedure
-  - method
-  - class
+  - method:
+  - class: 🎓 known
   - prototype
   - event
-  - type
-  - primitive types
-  - reference types
+  - type: 🎓 known
+  - primitive types: 🎓 known
+  - reference types: 🎓 known
   - flag
   - lexical scope
   - code block
-  - conditions
-  - loops
+  - conditions: 🖐️ used
+  - loops: 🖐️ used
   - assignment
   - regular expression
   - interface
@@ -31,8 +31,8 @@
   - call stack
 - Functions
   - signature
-  - argument
-  - parameter
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
   - pure function
   - lambda expression
   - side effects
@@ -53,13 +53,13 @@
   - generator
   - coroutine
 - Data structures
-  - array
+  - array: 🖐️ used
   - structure
   - record
   - enum
   - instance
-  - object
-  - class
+  - object: 🎓 known
+  - class: 🎓 known
   - collection
   - set
   - hash table
@@ -78,19 +78,19 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler: 🖐️ used
   - transpiler
-  - linter
+  - linter: 🖐️ used
   - polyfill
   - debugger
   - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
+  - refactoring: 🎓 known
+  - code review: 🎓 known
+  - antipatterns:👂 heard
+  - paradigm:👂 heard
+  - algorithm: 🖐️ used
   - magic numbers
-  - hardcode
+  - hardcode: 🎓 known
   - complexity
   - decomposition
   - spaghetti
@@ -98,9 +98,9 @@
   - not invented here
   - dead code
   - unreachable code
-  - duplicate code
+  - duplicate code: 🎓 known
   - exception
   - return early
   - unittest
-  - git
-  - github
+  - git: 👂 heard
+  - github: 👂 heard
