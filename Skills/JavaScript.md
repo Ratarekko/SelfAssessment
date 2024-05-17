@@ -1,18 +1,18 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
+  - async function: 🖐️ used
+  - call: 👂 heard
+  - bind: 👂 heard
+  - apply: 👂 heard
+  - instanceof: 🖐️ used
+  - ...spread: 👂 heard
+  - ...rest: 👂 heard
+  - typeof: 🖐️ used
+  - destructuring: 👂 heard
   - generator
   - iterator
   - async generator
@@ -20,70 +20,70 @@
   - chaining
   - optional chaining
   - IIFE
-  - global
+  - global: 👂 heard
   - globalThis
   - window
-  - getters and setters
+  - getters and setters: 👂 heard
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🎓 known
+  - ternary operator: 🖐️ used
+  - void: 🎓 known
   - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
+  - await: 🖐️ used
+  - template literal: 🖐️ used
+  - strict mode: 🖐️ used
+  - delete: 🖐️ used
+  - in: 🖐️ used
   - super
-  - Symbol
+  - Symbol: 🖐️ used
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
   - for await
-  - throw
-  - break
-  - continue
+  - throw: 🖐️ used
+  - break: 🖐️ used
+  - continue: 🖐️ used
   - import
   - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
+  - label: 👂 heard
+  - try..catch: 🖐️ used
+  - switch: 👂 heard
+  - class: 🖐️ used
+  - new Error: 🎓 known
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
   - functional object
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
+  - Array: 🖐️ used
+  - mixin: 👂 heard
+  - extend: 👂 heard
+  - typed arrays: 👂 heard
+  - Map: 🎓 known
+  - Set: 🎓 known
+  - undefined: 🖐️ used
+  - null: 🖐️ used
+  - Proxy: 👂 heard
   - weak collections
-  - timers
+  - timers: 🖐️ used
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8: 🎓 known 
+  - Node.js: 👂 heard
+  - npm: 🖐️ used
+  - prettier: 🎓 known 
+  - MDN: 🖐️ used
