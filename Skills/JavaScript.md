@@ -1,89 +1,123 @@
 ## JavaScript
 
 - Language
-  - Object: 🖐️ used
-  - this: 🖐️ used
-  - arrow function: 🖐️ used
-  - async function: 🖐️ used
-  - call: 👂 heard
-  - bind: 👂 heard
-  - apply: 👂 heard
-  - instanceof: 🖐️ used
-  - ...spread: 👂 heard
-  - ...rest: 👂 heard
-  - typeof: 🖐️ used
-  - destructuring: 👂 heard
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
+  - `Object`: 🖐️ used
+  - `Function`
+  - `Boolean`
+  - `Number`
+  - `BigInt`: 🖐️ used
+  - `String`
+  - `Symbol`: 🖐️ used
+  - `Infinity`
+  - `NaN`
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
+  - `instanceof`: 🖐️ used
+  - `...spread`: 👂 heard
+  - `...rest`: 👂 heard
+  - `typeof`: 🖐️ used
+  - Destructuring: 👂 heard
+  - Generators
+  - Iterators
+  - Async generator
+  - Async iterator
+  - Chaining
+  - Optional chaining
   - IIFE
-  - global: 👂 heard
-  - globalThis
-  - window
-  - getters and setters: 👂 heard
-  - __proto__
-  - prototype
-  - equality operators: 🖐️ used
-  - logical operators: 🖐️ used
-  - bitwise operators: 🎓 known
-  - ternary operator: 🖐️ used
-  - void: 🎓 known
-  - yield
-  - await: 🖐️ used
-  - template literal: 🖐️ used
-  - strict mode: 🖐️ used
-  - delete: 🖐️ used
-  - in: 🖐️ used
-  - super
-  - Symbol: 🖐️ used
-  - Reflect
+  - Async IIFE
+  - `global`: 👂 heard
+  - `globalThis`
+  - `window`
+  - Getters and setters: 👂 heard
+  - `__proto__`
+  - `prototype`
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment
+  - Bitwise operators: 🎓 known
+  - Ternary operator: 🖐️ used
+  - `void`: 🎓 known
+  - `yield`
+  - `await`: 🖐️ used
+  - Template literal: 🖐️ used
+  - Strict mode: 🖐️ used
+  - Hoisting
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
+  - `super`
+  - `eval`
+  - `static`
+  - `Number.parseInt`
+  - `Number.parseFloat`
+  - Property descriptors
+  - Sealing properties
+  - Freezing properties
+  - Computed properties
+  - Instance class fields
+  - Static class fields
+  - Private class fields
+  - Private class methods
 - Statements
-  - if: 🖐️ used
-  - while: 🖐️ used
-  - do..while: 🖐️ used
-  - for: 🖐️ used
-  - for..in: 🖐️ used
-  - for..of: 🖐️ used
-  - for await
-  - throw: 🖐️ used
-  - break: 🖐️ used
-  - continue: 🖐️ used
-  - import
-  - export
-  - label: 👂 heard
-  - try..catch: 🖐️ used
-  - switch: 👂 heard
-  - class: 🖐️ used
-  - new Error: 🎓 known
-  - with
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`
+  - `export`
+  - `label`: 👂 heard
+  - `try..catch`: 🖐️ used
+  - `switch`: 👂 heard
+  - `class`: 🖐️ used
+  - `extends`
+  - `with`
+  - `new`
 - Functions
-  - function declaration: 🖐️ used
-  - function expression: 🖐️ used
-  - return: 🖐️ used
-  - default parameters: 🖐️ used
-  - functional object
+  - Arrow function: 🖐️ used
+  - Async function: 🖐️ used
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
+  - Functional object
+  - `Function.prototype.call`: 👂 heard
+  - `Function.prototype.bind`: 👂 heard
+  - `Function.prototype.apply`: 👂 heard
+  - `return`: 🖐️ used
 - Data structures
-  - Array: 🖐️ used
-  - mixin: 👂 heard
-  - extend: 👂 heard
-  - typed arrays: 👂 heard
-  - Map: 🎓 known
-  - Set: 🎓 known
-  - undefined: 🖐️ used
-  - null: 🖐️ used
-  - Proxy: 👂 heard
-  - weak collections
-  - timers: 🖐️ used
-  - EventEmitter
-  - RegExp
-  - Date: 🖐️ used
-  - BigInt: 🖐️ used
+  - `Array`: 🖐️ used
+  - `Map`: 🎓 known
+  - `Set`: 🎓 known
+  - `WeakMap`
+  - `WeakSet`
+  - Typed arrays: 👂 heard
+  - Mixins: 👂 heard
+  - `Object.assign`: 👂 heard
+- Standard classes and namespaces
+  - `Proxy`: 👂 heard
+  - `RegExp`
+  - `Date`: 🖐️ used
+  - `Math`
+  - `Reflect`
+  - `Error`: 🎓 known
+  - `Atomics`
+  - `JSON`
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
+  - `Promise`
+  - `console`
+  - Timers: 🖐️ used
 - Infrastructure
   - V8: 🎓 known 
   - Node.js: 👂 heard
   - npm: 🖐️ used
   - prettier: 🎓 known 
   - MDN: 🖐️ used
+  - TC39
+
