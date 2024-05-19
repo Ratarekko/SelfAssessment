@@ -1,13 +1,13 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: 🎓 known
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
+  - Relational databases: 🖐️ used
   - Key-value store
   - Tuple store
   - Graph databases
@@ -36,29 +36,29 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`: 🖐️ used
+  - `OFFSET`: 🖐️ used
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
+  - `HAVING`: 🖐️ used
+  - `EXISTS`: 🖐️ used
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 🖐️ used
   - `LEFT JOIN`
   - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
-  - `WHERE`
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🖐️ used
+  - `WHERE`: 🖐️ used
   - `LIKE`
-  - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🖐️ used
+  - `CREATE TABLE`: 🖐️ used
   - `ALTER TABLE`
-  - `DROP TABLE`
+  - `DROP TABLE`: 🖐️ used
   - `PRIMARY KEY`
   - `FOREIGN KEY`
   - `CHECK`
@@ -70,14 +70,14 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
+  - PostgreSQL: 🖐️ used
+  - Oracle: 👂 heard
+  - MySQL: 👂 heard
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB: 👂 heard
   - Memcached
   - Riak
   - DB2
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
+  - Big data: 👂 heard
   - Data analysis
-  - AI tools
-  - Cloud databases
+  - AI tools: 👂 heard
+  - Cloud databases: 👂 heard
   - Data Visualization

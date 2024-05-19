@@ -4,15 +4,15 @@
   - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases
+  - Event loop phases: 👂 heard
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules: 👂 heard
+  - ECMAScript modules: 👂 heard
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
@@ -67,24 +67,24 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
+  - TLS: 🎓 known
+  - Websocket: 🎓 known
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC): 👂 heard
   - Long polling
   - REST
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - SQL injection
+  - DNS: 🎓 known
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - IP sticky sessions
