@@ -2,14 +2,14 @@
 
 - Language
   - `Object`: 🖐️ used
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
   - `BigInt`: 🖐️ used
-  - `String`
+  - `String`: 🖐️ used
   - `Symbol`: 🖐️ used
-  - `Infinity`
-  - `NaN`
+  - `Infinity`: 🖐️ used
+  - `NaN`: 🖐️ used
   - `undefined`: 🖐️ used
   - `null`: 🖐️ used
   - `this`: 🖐️ used
@@ -19,7 +19,7 @@
   - `typeof`: 🖐️ used
   - Destructuring: 👂 heard
   - Generators
-  - Iterators
+  - Iterators: 🖐️ used
   - Async generator
   - Async iterator
   - Chaining
@@ -34,8 +34,8 @@
   - `prototype`
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
-  - Logical Assignment
-  - Bitwise operators: 🎓 known
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 🖐️ used
   - Ternary operator: 🖐️ used
   - `void`: 🎓 known
   - `yield`
@@ -69,15 +69,15 @@
   - `throw`: 🖐️ used
   - `break`: 🖐️ used
   - `continue`: 🖐️ used
-  - `import`
-  - `export`
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
   - `label`: 👂 heard
   - `try..catch`: 🖐️ used
   - `switch`: 👂 heard
   - `class`: 🖐️ used
-  - `extends`
-  - `with`
-  - `new`
+  - `extends`: 🖐️ used
+  - `with`: 🖐️ used
+  - `new`: 🖐️ used
 - Functions
   - Arrow function: 🖐️ used
   - Async function: 🖐️ used
@@ -102,16 +102,16 @@
   - `Proxy`: 👂 heard
   - `RegExp`
   - `Date`: 🖐️ used
-  - `Math`
+  - `Math`: 🖐️ used
   - `Reflect`
   - `Error`: 🎓 known
   - `Atomics`
-  - `JSON`
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
-  - `console`
+  - `Intl`: 👂 heard
+  - `Promise`: 🖐️ used
+  - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
   - V8: 🎓 known 
