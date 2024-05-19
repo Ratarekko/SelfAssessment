@@ -30,7 +30,7 @@
   - Constructor: 🖐️ used
   - Operator `new`: 🖐️ used
   - Static method: 🖐️ used
-  - Method: 👂 heard 
+  - Method: 👂 heard
   - Async method
   - Getters, Setters
   - Public fields: 👂 heard

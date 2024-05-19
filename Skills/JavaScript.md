@@ -114,10 +114,9 @@
   - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
-  - V8: 🎓 known 
+  - V8: 🎓 known
   - Node.js: 👂 heard
   - npm: 🖐️ used
-  - prettier: 🎓 known 
+  - prettier: 🎓 known
   - MDN: 🖐️ used
   - TC39
-
