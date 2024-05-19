@@ -1,36 +1,36 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Model: 🎓 known
+  - Modeling: 🖐️ used
+  - Subject domain: 👂 heard
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 🎓 known
+  - Abstraction: 🖐️ used
+  - Paradigm: 🖐️ used
+  - Programm: 🖐️ used
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🖐️ used
   - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
-  - Decomposition
+  - Module: 🖐️ used
+  - Library: 🖐️ used
+  - Package: 🖐️ used
+  - Component: 🖐️ used
+  - Framework: 🎓 known
+  - Platform: 🖐️ used
+  - Source code: 🖐️ used
+  - Object code: 🎓 known
+  - Machine code: 🎓 known
+  - Microcode: 🎓 known
+  - Software engineering: 🎓 known
+  - Decomposition: 🖐️ used
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse: 🖐️ used
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY): 🎓 known
+  - KISS principle: 🎓 known
 - Syntax and concepts
   - Value: 🖐️ used
   - Identifier: 🖐️ used
@@ -45,7 +45,7 @@
   - Method: 🖐️ used
   - Class: 🖐️ used
   - Prototype
-  - Event: 👂 heard
+  - Event: 🖐️ used
   - Type: 🖐️ used
   - Flag: 🖐️ used
   - Lexical scope: 👂 heard
@@ -56,27 +56,27 @@
   - Regular expression
   - Interface
   - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
+  - Call stack: 🎓 known
+  - Naming conventions: 🎓 known
+  - Coding conventions: 🎓 known
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🎓 known
+  - Trailing commas: 🖐️ used
   - Return early: 🎓 known
   - Fail-fast
 - Types
   - Primitive types: 🖐️ used
   - Reference types: 🖐️ used
-  - Type systems
-  - Strong typing
-  - Weak typing
+  - Type systems: 🎓 known
+  - Strong typing: 🎓 known
+  - Weak typing: 🎓 known
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing: 🎓 known
+  - Dynamic typing: 🎓 known
   - Nominal typing
   - Structural typing
-  - Explicit typing
+  - Explicit typing: 🎓 known
   - Type inference
   - Covariance
   - Contravariance
@@ -85,19 +85,19 @@
   - Argument: 🖐️ used
   - Parameter: 🖐️ used
   - Pure function: 🖐️ used
-  - Lambda expression
+  - Lambda expression: 🖐️ used
   - Side effects: 👂 heard
-  - Closure: 👂 heard
+  - Closure: 🖐️ used
   - Partial application
   - Currying
   - Higher order
   - Recursion: 🖐️ used
   - Callback: 🖐️ used
-  - Listener
-  - Composition
+  - Listener: 🖐️ used
+  - Composition: 🖐️ used
   - Pipe
   - Memoize
-  - Wrapper
+  - Wrapper: 🖐️ used
   - Functor
   - Monad
   - Monoid
@@ -105,67 +105,67 @@
   - Coroutine
 - Data structures
   - Array: 🖐️ used
-  - Structure
+  - Structure: 🖐️ used
   - Record
   - Enum
   - Instance
-  - Object: 🎓 known
-  - Collection: 🎓 known
-  - Set: 🎓 known
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
+  - Set: 🖐️ used
   - Hash table: 🎓 known
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
+  - Linked list: 🖐️ used
+  - Doubly list: 🎓 known
+  - Unrolled list: 🎓 known
+  - Circular list: 🎓 known
+  - Queue: 🖐️ used
+  - Stack: 🖐️ used
+  - Deque: 🖐️ used
+  - Tree: 🖐️ used
+  - Graph: 🖐️ used
+  - Iterator: 🖐️ used
   - Mutable state: 👂 heard
   - Immutable state: 👂 heard
-  - Serialization
-  - String parsing
-  - JSON
+  - Serialization: 🖐️ used
+  - String parsing: 🖐️ used
+  - JSON: 🖐️ used
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS: 🎓 known
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4: 🖐️ used
+  - IPv6: 🖐️ used
+  - NAT: 🖐️ used
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
   - Compiler: 🖐️ used
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Just-in-time compilation: 👂 heard
+  - Ahead-of-time compilation: 👂 heard
   - Transpiler: 🎓 known
   - Linter: 🖐️ used
   - Polyfill: 👂 heard
-  - Interpreter
+  - Interpreter: 👂 heard
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime: 👂 heard
+  - Virtual machine: 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
   - Debugger: 🖐️ used
   - Tracing
-  - Garbage collection
+  - Garbage collection: 👂 heard
   - Refactoring: 🖐️ used
-  - Code review: 🎓 known
+  - Code review: 🖐️ used
   - Exception: 🖐️ used
   - Unittesting: 🖐️ used
   - git: 🖐️ used
   - Github: 🖐️ used
-  - Docker
+  - Docker: 👂 heard
   - Kubernetes
   - GCC
   - LLVM
@@ -173,10 +173,10 @@
   - Magic numbers: 🎓 known
   - Hard code: 🎓 known
   - Soft code
-  - Cryptic code
+  - Cryptic code: 👂 heard
   - Improbability factor
   - Accidental complexity: 🎓 known
-  - Action at a distance
+  - Action at a distance: 👂 heard
   - Spaghetti: 🎓 known
   - Silver bullet: 👂 heard
   - Not invented here: 👂 heard
@@ -185,55 +185,54 @@
   - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
+  - Nested loops: 🎓 known
+  - Long method/function/procedure: 🎓 known
   - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Large class/file: 🎓 known
+  - Too many parameters: 🎓 known
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
-  - Temporary field
+  - Use switch/case: 🎓 known
+  - Temporary field: 👂 heard
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
   - Feature envy
   - Monkey patch
-  - Yo-yo problem
+  - Yo-yo problem: 👂 heard
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode: 👂 heard
+  - V8: 🎓 known
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers: 🎓 known
   - Kernel
-  - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - Ring: 👂 heard
+  - Virtual memory: 👂 heard
+  - File system: 🎓 known
+  - Linux: 🖐️ used
+  - Unix: 🎓 known
   - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
-  - Embedded OS
+  - MacOS: 🎓 known
+  - Windows: 🖐️ used
+  - Real-time OS: 👂 heard
+  - Embedded OS: 🖐️ used
 - Standards
-  - ASCII
+  - ASCII: 👂 heard
   - Escape sequence
   - RFC
-  - IETF
-  - IANA
+  - IETF: 👂 heard
+  - IANA: 👂 heard
   - IEEE
   - Base64
-  - ECMA
+  - ECMA: 👂 heard
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: 👂 heard
   - W3C
   - ODMG
-
